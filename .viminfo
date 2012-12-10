@@ -1,0 +1,289 @@
+# Este fichero viminfo fue generado por Vim 7.2.
+# Usted puede editarlo, ¡solo si tiene cuidado!
+
+# Valor de «encoding» cuando se escribió este fichero
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Última cadena de sustitución:
+$
+
+# Historia de «Línea de comandos» (de lo más nuevo a lo más antiguo):
+:wq
+:q
+:w
+
+# Historia de «Cadena de búsqueda» (de lo más nuevo a lo más antiguo):
+
+# Historia de «Expresión» (de lo más nuevo a lo más antiguo):
+
+# Historia de «Línea de entrada» (de lo más nuevo a lo más antiguo):
+
+# Historia de «Línea de entrada» (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+	}
+"2	LINE	0
+		}
+"3	LINE	0
+			System.out.println("Hola");
+"4	LINE	0
+		public Prueba() {
+"5	LINE	0
+	class Prueba {
+"6	LINE	0
+	
+"7	LINE	0
+	
+"8	LINE	0
+	
+"9	LINE	0
+	
+"-	CHAR	0
+	s
+
+# Marcas en el fichero:
+'0  3  1  ~/index.php
+'1  8  268  /etc/xinetd.d/cvs
+'2  1  0  /etc/network/interfaces
+'3  1  17  /home/cvs/prueba.java
+'4  13  0  /var/lib/repositorio/dai2_2011_2012/CVSROOT/checkoutlist
+'5  1  21  /var/lib/repositorio/dai2_2011_2012/CVSROOT/passwd
+'6  2  23  /var/lib/repositorio/dai2_2011_2012/CVSROOT/passwd
+'7  1  0  /etc/xinetd.d/cvs
+'8  1  0  /var/lib/repositorio/dai2_2011_2012/CVSROOT/writers
+'9  1  0  /var/lib/repositorio/dai2_2011_2012/pas
+
+# Lista de saltos (el más reciente va primero):
+-'  3  1  ~/index.php
+-'  1  0  ~/index.php
+-'  8  268  /etc/xinetd.d/cvs
+-'  1  0  /etc/xinetd.d/cvs
+-'  1  0  /etc/network/interfaces
+-'  1  17  /home/cvs/prueba.java
+-'  13  0  /var/lib/repositorio/dai2_2011_2012/CVSROOT/checkoutlist
+-'  1  0  /var/lib/repositorio/dai2_2011_2012/CVSROOT/checkoutlist
+-'  1  21  /var/lib/repositorio/dai2_2011_2012/CVSROOT/passwd
+-'  2  23  /var/lib/repositorio/dai2_2011_2012/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/dai2_2011_2012/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/dai2_2011_2012/pas
+-'  97  0  /var/lib/repositorio/daw1_2011_2012/CVSROOT/config
+-'  1  0  /var/lib/repositorio/daw1_2011_2012/CVSROOT/config
+-'  19  0  /var/lib/repositorio/daw1_2011_2012/CVSROOT/cvswrappers
+-'  1  0  /var/lib/repositorio/daw1_2011_2012/CVSROOT/cvswrappers
+-'  1  0  /var/lib/repositorio/daw1_2011_2012/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/dai1_2010_2011/CVSROOT/writers
+-'  2  3  /var/lib/repositorio/dai2_2011_2012/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/web_efa_2011/CVSROOT/cvsignore
+-'  1  0  /var/lib/repositorio/web_efa_2011/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/web_efa_2011/CVSROOT/writers
+-'  4  5  /var/lib/repositorio/web_efa_2011/CVSROOT/writers
+-'  4  24  /var/lib/repositorio/web_efa_2011/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/dai1_2010_2011/CVSROOT/passwd
+-'  1  0  /etc/passwd
+-'  2  2  /var/lib/repositorio/dai/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/dai/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/dai/CVSROOT/passwd
+-'  2  23  /var/lib/repositorio/dai/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  8  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  2  3  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  8  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  2  3  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  8  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  2  3  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  1  17  /home/dai/index.php
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  2  21  /var/lib/repositorio/proyecto/CVSROOT/passwd
+-'  8  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  1  0  /var/lib/repositorio/proyecto/CVSROOT
+-'  8  0  /var/lib/repositorio/proyecto
+-'  1  0  /var/lib/repositorio/proyecto
+-'  1  17  /home/dai/index.php
+-'  2  3  /var/lib/repositorio/proyecto/CVSROOT/writers
+-'  1  17  /home/dai/index.php
+
+# Historia de las marcas en los ficheros (de la más reciente a la más antigua):
+
+> ~/index.php
+	"	3	1
+	^	3	2
+	.	3	1
+	+	3	1
+
+> /etc/xinetd.d/cvs
+	"	8	268
+	^	8	269
+	.	9	0
+	+	8	269
+	+	9	0
+
+> /etc/network/interfaces
+	"	1	0
+
+> /home/cvs/prueba.java
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	0
+	+	1	29
+	+	1	1
+	+	1	17
+
+> /var/lib/repositorio/dai2_2011_2012/CVSROOT/checkoutlist
+	"	13	0
+
+> /var/lib/repositorio/dai2_2011_2012/CVSROOT/passwd
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+	+	2	23
+	+	1	21
+
+> /var/lib/repositorio/dai2_2011_2012/CVSROOT/writers
+	"	1	0
+	^	2	4
+	.	2	3
+	+	2	3
+
+> /var/lib/repositorio/dai2_2011_2012/pas
+	"	1	0
+
+> /var/lib/repositorio/daw1_2011_2012/CVSROOT/config
+	"	97	0
+
+> /var/lib/repositorio/daw1_2011_2012/CVSROOT/cvswrappers
+	"	19	0
+
+> /var/lib/repositorio/daw1_2011_2012/CVSROOT/passwd
+	"	1	0
+	^	1	22
+	.	1	21
+	+	1	21
+
+> /var/lib/repositorio/dai1_2010_2011/CVSROOT/writers
+	"	1	0
+
+> /var/lib/repositorio/web_efa_2011/CVSROOT/cvsignore
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /var/lib/repositorio/web_efa_2011/CVSROOT/passwd
+	"	1	0
+	^	4	25
+	.	4	24
+	+	1	23
+	+	2	23
+	+	3	22
+	+	4	24
+
+> /var/lib/repositorio/web_efa_2011/CVSROOT/writers
+	"	1	0
+	^	4	6
+	.	4	5
+	+	4	5
+
+> /var/lib/repositorio/dai1_2010_2011/CVSROOT/passwd
+	"	1	0
+	^	1	24
+	.	1	23
+	+	2	21
+	+	1	23
+
+> /etc/passwd
+	"	1	0
+
+> /var/lib/repositorio/dai/CVSROOT/writers
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /var/lib/repositorio/dai/CVSROOT/passwd
+	"	1	0
+	^	2	24
+	.	2	23
+	+	1	23
+	+	2	21
+	+	1	21
+	+	2	23
+
+> /var/lib/repositorio/proyecto/CVSROOT/writers
+	"	1	0
+	^	2	4
+	.	1	5
+	+	1	5
+
+> /var/lib/repositorio/proyecto/CVSROOT/passwd
+	"	1	0
+	^	2	22
+	.	2	21
+	+	1	13
+	+	1	0
+	+	1	23
+	+	2	21
+
+> /home/dai/index.php
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17

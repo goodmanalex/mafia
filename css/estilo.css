@@ -1,0 +1,106 @@
+@CHARSET "ISO-8859-1";
+
+body{
+    background: black;
+}
+#divbot{
+    margin-top: 3px;
+    float: left;
+    margin-left: 0px;
+}
+#divtabla{
+    clear:left;
+    margin-top: 50px;
+}
+#contenido{
+    margin:0 auto 0 auto;
+    width: 800px;
+    height: 100%;
+}
+.celdat{
+    background-color: gray;
+    border-style: double;
+    border-color: grey;
+    border-width: thin;
+}
+.celda{
+    border-style: double;
+    border-color: grey;
+    border-width: thin;
+    font-size: 12px;
+}
+#tablabot{
+    width: 1%;
+}
+#tablacont{
+    width: 100%;
+    color: white;
+    font-family: Arial;
+    border-style: double;
+    border-color: grey;
+    border-width: thin;
+}
+#cabecera{
+    margin:0 auto 0 auto;
+}
+#userPanel{
+    width: 799px;
+}
+#logo{
+    width: 100%;
+    height: 200px;
+    z-index: 1;
+    border-style: double;
+    border-color: grey;
+    border-width: thin;
+}
+#centro{
+    margin:0 auto 0 auto;
+    width: 100%;
+}
+.button {
+    border: 1px solid gray;
+    background: #3b3c3d;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#3b3c3d));
+    background: -webkit-linear-gradient(top, #000000, #3b3c3d);
+    background: -moz-linear-gradient(top, #000000, #3b3c3d);
+    background: -ms-linear-gradient(top, #000000, #3b3c3d);
+    background: -o-linear-gradient(top, #000000, #3b3c3d);
+    padding: 5px 10px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 12px;
+    font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.button:hover {
+    border-top-color: #595e61;
+    background: #595e61;
+    color: #ccc;
+}
+.button:active {
+    border-top-color: #000000;
+    background: #000000;
+}
+/*------------------------------------------------------------------------------------------------*/
+.userPanel {padding: 5px 0 0 2px;clear: both;}
+.userPanel:after {content: "";display: block;clear: both;height: 0;}
+
+#userNote {margin: 1px 7px 4px 0;float: left;}
+#userNote p {white-space: nowrap;}
+
+#userMenu ul {list-style: none;margin: 0;padding: 0;}
+#userMenu li {margin: 1px 7px 4px 0;float: left;}
+#userMenu a {text-decoration: none;}
+#userMenu span {text-decoration: underline;white-space: nowrap;}
+#userMenu a:hover span {text-decoration: none;}
+#userMenu .pageMenu {font-size: 1em;}
+
+#date {white-space: nowrap;margin: 1px 0 4px 7px;float: right;}
